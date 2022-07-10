@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Room-For-Rent/static/css/main.d96115b7.css",
+    "main.js": "/Room-For-Rent/static/js/main.b31628b9.js",
+    "index.html": "/Room-For-Rent/index.html",
+    "main.d96115b7.css.map": "/Room-For-Rent/static/css/main.d96115b7.css.map",
+    "main.b31628b9.js.map": "/Room-For-Rent/static/js/main.b31628b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d96115b7.css",
+    "static/js/main.b31628b9.js"
+  ]
+}
