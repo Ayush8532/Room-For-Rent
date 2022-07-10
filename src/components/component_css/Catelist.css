@@ -1,0 +1,19 @@
+.heading{
+    margin: 20px;
+}
+.Filter-c{
+    display: flex;
+    justify-content: space-between;
+}
+.filter{
+    margin: 20px;
+}
+.filter-text{
+    font-size: 20px;
+    font-weight: 600;
+    margin-right: 20px;
+}
+select{
+    padding: 10px;
+    margin-right: 20px;
+}

@@ -1,0 +1,32 @@
+
+.info-container{
+
+    flex: 1;
+    
+}
+.img-con{
+    opacity: 0.9;   
+    height: 635px;
+    
+}
+.heading{
+    font-size: 50px;
+
+}
+.desc{
+    margin: 50px 0px;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 3px;
+
+}
+.btn{
+    padding: 10px;
+    font-size: 20px;
+    background-color: white;
+    cursor: pointer;
+
+}
+.slide{
+    background-color: black;
+}

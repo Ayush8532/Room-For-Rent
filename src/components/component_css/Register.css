@@ -1,0 +1,66 @@
+.register-container{
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    background:linear-gradient(#22ad9f,white) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper{
+    width: 40%;
+    padding: 20px;
+    background-color: rgb(237, 235, 235);
+}
+.login-wrapper{
+    width: 25%;
+    padding: 20px;
+    background-color: rgb(237, 235, 235);
+
+}
+.register-title{
+    font-size: 24px;
+    font-weight: 300;
+}
+.Form{
+    display: flex;
+    flex-wrap: wrap;
+}
+.signin-form{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    flex: 1;
+    min-width: 40%;
+    margin:20px 10px 0px 0px;
+    padding: 10px;
+    outline: none;
+}
+.login-input{
+    flex: 1;
+    min-width: 40%;
+    margin:10px 0px;
+    padding: 10px;
+    outline: none;
+}
+.Agreement{
+    font-size:12px;
+    margin:20px 0px;
+}
+.register-button{
+    width: 40%;
+    border: none;
+    padding: 15px 20px;
+    background-color: teal;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+a{
+    margin: 5px 0px;
+    font-size: 12px;
+    text-decoration: underline;
+    cursor: pointer;
+}

@@ -1,0 +1,96 @@
+.Cart-container{
+
+}
+.cart-wrapper{
+    padding: 20px;
+}
+.cart-title{
+    font-weight: 300;
+    text-align: center;
+}
+.top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+.top-button{
+    padding: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    background-color:#3CAEA3;
+}
+.bottom{
+    display: flex;
+    justify-content: space-between;
+}
+.Cart-info{
+    flex: 3;
+}
+.Cart-product{
+    display: flex;
+    justify-content: space-between;
+
+}
+.Cart-productDetail{
+    flex: 2;
+    display: flex;
+
+}
+img{
+    width: 400px;
+
+}
+.details{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+.product-name{
+    font-size: 24px;
+    font-weight: 300;
+}
+.product-owner{
+    font-size: 24px;
+    font-weight: 300;
+
+}
+.product-rooms{
+    font-size: 24px;
+    font-weight: 300;
+
+}
+.product-location{
+    font-size: 24px;
+    font-weight: 300;
+
+}
+.Cart-productPrice{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.cart-contact{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    color: green;
+    cursor: pointer;
+}
+.product-price{
+    font-size: 30px;
+    font-weight: 200;
+}
+hr{
+    background-color: rgb(212, 210, 210);
+    border: none;
+    height: 1px;
+
+}
